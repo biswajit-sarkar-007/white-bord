@@ -6,7 +6,7 @@ A real-time collaborative whiteboard where multiple users can draw simultaneousl
 - **Real-time Drawing**: Users can draw on the whiteboard, and changes appear instantly for all participants.
 - **Multi-User Support**: Multiple users can collaborate on the same board.
 - **WebSocket Communication**: Uses `socket.io` to sync the drawing in real-time.
-- **Canvas API**: Implements the HTML5 Canvas API for drawing.
+ 
 
 ## 🏗️ Project Structure
 ```plaintext
@@ -58,8 +58,7 @@ Visit `http://localhost:3000` in your browser to start collaborating.
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📜 License
-This project is licensed under the MIT License.
+ 
 
 ---
 ### 🔥 Start Collaborating Now!
